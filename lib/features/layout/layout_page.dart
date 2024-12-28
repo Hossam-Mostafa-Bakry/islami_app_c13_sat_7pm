@@ -1,10 +1,10 @@
 import 'package:c13_wed_islami/core/constants/app_assets.dart';
 import 'package:c13_wed_islami/core/theme/app_colors.dart';
-import 'package:c13_wed_islami/features/layout/pages/hadith_tab.dart';
-import 'package:c13_wed_islami/features/layout/pages/quran_tab.dart';
-import 'package:c13_wed_islami/features/layout/pages/radio_tab.dart';
-import 'package:c13_wed_islami/features/layout/pages/sbha_tab.dart';
-import 'package:c13_wed_islami/features/layout/pages/times_tab.dart';
+import 'package:c13_wed_islami/features/layout/hadith/hadith_tab.dart';
+import 'package:c13_wed_islami/features/layout/quran/quran_tab.dart';
+import 'package:c13_wed_islami/features/layout/radio/radio_tab.dart';
+import 'package:c13_wed_islami/features/layout/sebha/sbha_tab.dart';
+import 'package:c13_wed_islami/features/layout/times/times_tab.dart';
 import 'package:c13_wed_islami/features/layout/widgets/custom_nav_bar_item.dart';
 import 'package:flutter/material.dart';
 
